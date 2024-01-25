@@ -1,0 +1,15 @@
+.btnIcon {
+    border: 2px solid #FD9286;
+    border-radius: 50%;
+}
+
+.btnIcon:active {
+    /* fill: #FD9286; */
+    box-shadow: 0px 0px 5px salmon;
+}
+.btnIcon:hover {
+    background-color:#FD9286;
+}
+.btnIcon:hover .lines {
+    stroke: white;
+}

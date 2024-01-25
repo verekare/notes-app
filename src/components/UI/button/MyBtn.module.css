@@ -1,0 +1,14 @@
+.btn {
+    background-color: white;
+    color: salmon;
+    border: none;
+    border-radius: 10px;
+    /* text-align: end; */
+    padding: 10px 15px 1px 0;
+}
+.btn:hover {
+    text-decoration: underline 0.2em;
+}
+.btn:active {
+    text-shadow: 0px 0px 5px salmon;
+}

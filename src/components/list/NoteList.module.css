@@ -1,0 +1,15 @@
+.containerList {
+    padding: 20px;
+    width: 100%;
+}
+
+.list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
